@@ -64,7 +64,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Game\Scripts\PlayerControl.cs" />
+    <Compile Include="Assets\Game\Scripts\Animator\attackEnd.cs" />
+    <Compile Include="Assets\Game\Scripts\Characters\PetFollow.cs" />
+    <Compile Include="Assets\Game\Scripts\Objects\Grass.cs" />
+    <Compile Include="Assets\Game\Scripts\Player\DynamicCam.cs" />
+    <Compile Include="Assets\Game\Scripts\Player\PlayerControl.cs" />
     <None Include="Assets\External\Nicrom\PolyPacks\Wind\Documentation\LPW_Log.txt" />
     <None Include="Assets\External\Nicrom\PolyPacks\Wind\Assets\Shaders\ASE\LPW_Vegetation.shader" />
     <Reference Include="UnityEngine">

@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerMask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: metarig
+    m_Weight: 1
+  - m_Path: metarig/hips
+    m_Weight: 1
+  - m_Path: metarig/hips/spine
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/neck
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/neck/Box_1
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/neck/head
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/neck/head/Head
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/neck/head/head_end
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.L
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.L/upper_arm.L
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.L/upper_arm.L/Box_2
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/Box_2.001
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L.001
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L.001/Box_4
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L.001/hand.L.001_end
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.R
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.R/upper_arm.R
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.R/upper_arm.R/Box_6
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/Box_6.001
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R.001
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R.001/Box_7
+    m_Weight: 1
+  - m_Path: metarig/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R.001/hand.R.001_end
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/Pants_1
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/shin.L
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/shin.L/foot.L
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/shin.L/foot.L/_1
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/shin.L/foot.L/toe.L
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/shin.L/heel.L
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/shin.L/heel.L/heel.02.L
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/shin.L/heel.L/heel.02.L/heel.02.L_end
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.L/shin.L/Pants_1.002
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/Pants
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/shin.R
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/shin.R/foot.R
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/shin.R/foot.R/_2
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/shin.R/foot.R/toe.R
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/shin.R/heel.R
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/shin.R/heel.R/heel.02.R
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/shin.R/heel.R/heel.02.R/heel.02.R_end
+    m_Weight: 1
+  - m_Path: metarig/hips/thigh.R/shin.R/Pants.001
+    m_Weight: 1
+  - m_Path: Pants_1.001
+    m_Weight: 1
+  - m_Path: WGT-chest
+    m_Weight: 1
+  - m_Path: WGT-elbow_hose.L
+    m_Weight: 1
+  - m_Path: WGT-elbow_hose.R
+    m_Weight: 1
+  - m_Path: WGT-elbow_target.ik.L
+    m_Weight: 1
+  - m_Path: WGT-elbow_target.ik.R
+    m_Weight: 1
+  - m_Path: WGT-foot.fk.L
+    m_Weight: 1
+  - m_Path: WGT-foot.fk.R
+    m_Weight: 1
+  - m_Path: WGT-foot.ik.L
+    m_Weight: 1
+  - m_Path: WGT-foot.ik.R
+    m_Weight: 1
+  - m_Path: WGT-foot_roll.ik.L
+    m_Weight: 1
+  - m_Path: WGT-foot_roll.ik.R
+    m_Weight: 1
+  - m_Path: WGT-forearm.fk.L
+    m_Weight: 1
+  - m_Path: WGT-forearm.fk.R
+    m_Weight: 1
+  - m_Path: WGT-forearm_hose.L
+    m_Weight: 1
+  - m_Path: WGT-forearm_hose.R
+    m_Weight: 1
+  - m_Path: WGT-forearm_hose_end.L
+    m_Weight: 1
+  - m_Path: WGT-forearm_hose_end.R
+    m_Weight: 1
+  - m_Path: WGT-hand.fk.L
+    m_Weight: 1
+  - m_Path: WGT-hand.fk.R
+    m_Weight: 1
+  - m_Path: WGT-hand.ik.L
+    m_Weight: 1
+  - m_Path: WGT-hand.ik.R
+    m_Weight: 1
+  - m_Path: WGT-head
+    m_Weight: 1
+  - m_Path: WGT-hips
+    m_Weight: 1
+  - m_Path: WGT-knee_hose.L
+    m_Weight: 1
+  - m_Path: WGT-knee_hose.R
+    m_Weight: 1
+  - m_Path: WGT-knee_target.ik.L
+    m_Weight: 1
+  - m_Path: WGT-knee_target.ik.R
+    m_Weight: 1
+  - m_Path: WGT-neck
+    m_Weight: 1
+  - m_Path: WGT-root
+    m_Weight: 1
+  - m_Path: WGT-shin.fk.L
+    m_Weight: 1
+  - m_Path: WGT-shin.fk.R
+    m_Weight: 1
+  - m_Path: WGT-shin_hose.L
+    m_Weight: 1
+  - m_Path: WGT-shin_hose.R
+    m_Weight: 1
+  - m_Path: WGT-shin_hose_end.L
+    m_Weight: 1
+  - m_Path: WGT-shin_hose_end.R
+    m_Weight: 1
+  - m_Path: WGT-shoulder.L
+    m_Weight: 1
+  - m_Path: WGT-shoulder.R
+    m_Weight: 1
+  - m_Path: WGT-spine
+    m_Weight: 1
+  - m_Path: WGT-thigh.fk.L
+    m_Weight: 1
+  - m_Path: WGT-thigh.fk.R
+    m_Weight: 1
+  - m_Path: WGT-thigh_hose.L
+    m_Weight: 1
+  - m_Path: WGT-thigh_hose.R
+    m_Weight: 1
+  - m_Path: WGT-thigh_hose_end.L
+    m_Weight: 1
+  - m_Path: WGT-thigh_hose_end.R
+    m_Weight: 1
+  - m_Path: WGT-toe.L
+    m_Weight: 1
+  - m_Path: WGT-toe.R
+    m_Weight: 1
+  - m_Path: WGT-torso
+    m_Weight: 1
+  - m_Path: WGT-upper_arm.fk.L
+    m_Weight: 1
+  - m_Path: WGT-upper_arm.fk.R
+    m_Weight: 1
+  - m_Path: WGT-upper_arm_hose.L
+    m_Weight: 1
+  - m_Path: WGT-upper_arm_hose.R
+    m_Weight: 1
+  - m_Path: WGT-upper_arm_hose_end.L
+    m_Weight: 1
+  - m_Path: WGT-upper_arm_hose_end.R
+    m_Weight: 1
+  - m_Path: WGT-VIS-foot.ik.L
+    m_Weight: 1
+  - m_Path: WGT-VIS-foot.ik.R
+    m_Weight: 1
+  - m_Path: WGT-VIS-hand.ik.L
+    m_Weight: 1
+  - m_Path: WGT-VIS-hand.ik.R
+    m_Weight: 1
+  - m_Path: WGT-VIS-thigh_pole.ik.L
+    m_Weight: 1
+  - m_Path: WGT-VIS-thigh_pole.ik.R
+    m_Weight: 1
+  - m_Path: WGT-VIS-upper_arm_pole.ik.L
+    m_Weight: 1
+  - m_Path: WGT-VIS-upper_arm_pole.ik.R
+    m_Weight: 1
