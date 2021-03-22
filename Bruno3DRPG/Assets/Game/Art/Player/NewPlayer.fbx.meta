@@ -5,19 +5,11 @@ ModelImporter:
   internalIDToNameTable:
   - first:
       74: 3374748389425109202
-    second: Walk
+    second: walk
   - first:
-      74: -3100369314251171874
-    second: Idle
-  - first:
-      74: 6720303635017113406
-    second: Attack
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: PlayerNoRig_material
-    second: {fileID: 2100000, guid: 2ee32995e4aeca341ac0cf09599a1d37, type: 2}
+      74: 2796233005842590986
+    second: rig|rigAction
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -52,7 +44,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Walk
+      name: walk
       takeName: rig|rigAction
       internalID: 0
       firstFrame: 100
@@ -81,40 +73,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Idle
+      name: rig|rigAction
       takeName: rig|rigAction
       internalID: 0
-      firstFrame: 300
-      lastFrame: 340
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 1
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
-    - serializedVersion: 16
-      name: Attack
-      takeName: rig|rigAction
-      internalID: 0
-      firstFrame: 400
-      lastFrame: 500
+      firstFrame: 312
+      lastFrame: 474
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
